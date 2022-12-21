@@ -1,0 +1,22 @@
+{
+  "name": "slnic",
+  "version": "1.0.0",
+  "description": "you can get the detail related nic number",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sachintha00/SlNic-npm-Package.git"
+  },
+  "keywords": [
+    "slnic"
+  ],
+  "author": "sachintha madhawa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sachintha00/SlNic-npm-Package/issues"
+  },
+  "homepage": "https://github.com/sachintha00/SlNic-npm-Package#readme"
+}
