@@ -91,7 +91,7 @@ const monthOfDays = a => {
     }
   };
   
-  slnic = pnicNumber => {
+function slnic (pnicNumber){
     var nicNumber = String(pnicNumber);
     const month = [31, 60, 91, 121, 152, 182, 213, 244, 274, 305, 335, 366];
     var i = -1,
@@ -209,4 +209,4 @@ const monthOfDays = a => {
     };
   };
 
-  module.exports.slnic
+module.exports = slnic;
